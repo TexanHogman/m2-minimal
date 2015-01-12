@@ -1,5 +1,5 @@
 {
-  "name": "texanhogman/minimal",
+  "name": "texanhogman/m2-minimal",
   "description": "Minimal extension",
   "require": {
     "php": ">=5.4.11",
@@ -11,7 +11,7 @@
     "map": [
       [
         "*",
-        "TexanHogman/Minimal"
+        "TexanHogman/M2-Minimal"
       ]
     ]
   }
