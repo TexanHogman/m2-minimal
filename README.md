@@ -1,1 +1,1 @@
-The most basic Magento 2 extension
+just playing around to understand modularity of Magento -- this should not be followed as it has violations.
